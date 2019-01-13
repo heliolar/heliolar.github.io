@@ -1,0 +1,13 @@
+.elemento-padre {
+	display: flex;
+	
+	justify-content: center;
+	align-items: center;
+
+}
+
+.elemento-hijo {
+	display: flex;
+	
+
+}
